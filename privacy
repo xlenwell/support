@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NiceTuner Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #6366f1; }
+        h2 { color: #4f46e5; margin-top: 30px; }
+        .update-date { color: #666; font-size: 14px; }
+    </style>
+</head>
+<body>
+    <h1>NiceTuner Privacy Policy</h1>
+    <p class="update-date">Last updated: January 2026</p>
+
+    <h2>1. Overview</h2>
+    <p>NiceTuner is a musical instrument tuning application. We respect your privacy, and this policy explains how we handle your data.</p>
+
+    <h2>2. Data Collection</h2>
+    <p><strong>Microphone Access:</strong> The app uses the microphone solely for real-time pitch detection of musical instruments. Audio data is processed entirely on your device and <strong>is not uploaded, stored, or shared with any third party</strong>.</p>
+
+    <h2>3. Local Storage</h2>
+    <p>The app stores the following preference settings locally on your device:</p>
+    <ul>
+        <li>Reference pitch settings</li>
+        <li>Theme preferences (dark/light mode)</li>
+        <li>Language settings</li>
+        <li>Other tuning-related parameters</li>
+    </ul>
+    <p>This data is stored only on your device and is not transmitted to any server.</p>
+
+    <h2>4. Third-Party Services</h2>
+    <p>This app does not use any third-party analytics, advertising, or tracking services.</p>
+
+    <h2>5. Data Security</h2>
+    <p>Since all data is processed and stored locally, your data security depends entirely on the security measures of your device.</p>
+
+    <h2>6. Children’s Privacy</h2>
+    <p>This app is not intended for children under the age of 13 and does not knowingly collect personal information from children.</p>
+
+    <h2>7. Policy Changes</h2>
+    <p>If we update this privacy policy, the updated version will be published on this page.</p>
+
+    <h2>8. Contact Us</h2>
+    <p>If you have any questions related to privacy, please contact us at:
+        <a href="mailto:your-email@example.com">aixce1024@gmail.com</a>
+    </p>
+</body>
+</html>
